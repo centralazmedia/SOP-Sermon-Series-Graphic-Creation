@@ -441,7 +441,8 @@ New Here?
 
 Text "Hello" to 79138
 ```
-![[CentralGeneric_NewHere_LT.png]]
+![CentralGeneric_NewHere_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/a3fb5191-0cc9-455d-ad45-d24becddea95)
+
 ___
 
 ### **Prayer Lower Third**
@@ -462,7 +463,9 @@ Need Prayer?
 
 centralaz.com/prayer
 ```
-![[CentralGeneric_Prayer_LT.png]]
+![CentralGeneric_Prayer_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/f1737a60-3545-44d9-9c87-be8213638089)
+
+
 ___
 
 ### **What's Happening Lower Third**
@@ -483,7 +486,9 @@ What's Happening at Central?
 
 centralaz.com/whatshappening
 ```
-![[CentralGeneric_WhatsHappening_LT.png]]
+![CentralGeneric_WhatsHappening_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/7d058f71-6026-4154-9470-0943e68baee8)
+
+
 ___
 
 ### **Questions About Baptism Lower Third**
@@ -506,7 +511,8 @@ centralaz.com/baptism
 
 Email: baptisms@centralaz.com
 ```
-![[CentralGeneric_Baptism_LT.png]]
+![CentralGeneric_Baptism_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/52f3196e-46ad-492f-9a2e-5c65f3cc9626)
+
 ___
 ### **Ways to Give Lower Third**
 
@@ -527,7 +533,8 @@ Ways to Give
 centralaz.com/give or
 Download the Central App
 ```
-![[CentralGeneric_WaysToGive_LT.png]]
+![CentralGeneric_WaysToGive_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4ce5d86d-a86d-4c4f-b476-5d507fb9dab8)
+
 ___
 
 ### **Message Lower Third**
@@ -546,7 +553,8 @@ ___
 ```
 NO TEXT
 ```
-![[CentralGeneric_Message_LT.png]]
+![CentralGeneric_Message_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/f5c79697-65e8-4ac5-9104-dfcfe6bad1d3)
+
 ___
 
 ### **Message Lower Third with Verse Reference**
@@ -566,7 +574,8 @@ ___
 ```
 NO TEXT
 ```
-![[CentralGeneric_MessageReference_LT.png]]
+![CentralGeneric_MessageReference_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/44337bdd-8ae6-4e6f-9fa9-c58d830e06d7)
+
 ___
 ### **ID Lower Third**
 **FILENAME:** 
@@ -583,8 +592,7 @@ ___
 ```
 NO TEXT
 ```
-
-![[CentralGeneric_ID_Single_LT.png]]
+![CentralGeneric_ID_Single_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4eba6e72-91a4-4415-b140-c29d84bb208a)
 ___
 ### **ID Dual Lower Third**
 **FILENAME:** 
@@ -601,7 +609,8 @@ ___
 ```
 NO TEXT
 ```
-![[CentralGeneric_ID_Dual_LT.png]]
+![CentralGeneric_ID_Dual_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/96d33bb3-2e40-4ce0-af30-fa66e7334768)
+
 ___
 # Files, Project Organization, and Exporting
 
@@ -621,7 +630,8 @@ Organize your project root folder as follows:
     Working Files    (All Photoshop working files)
 ```
 
-![[projectfolder.png]]
+<img width="915" alt="projectfolder" src="https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/116f326e-c7f8-4e65-8287-b1889f65d9c2">
+
 
 
 ___
@@ -632,25 +642,29 @@ ___
 >I find it best to have three separate photoshop files. One for **Full Screen Graphics**, one for **Lower Thirds Graphics**, and one for **LED Wall Graphics**. Create each needed graphic as a different artboard within the project. See example screenshots below.
 
 **Full Screen Graphics:**
-![[fullscreengraphics.png]]
+![fullscreengraphics](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/0af239b4-718b-48ea-9a71-36cb3f1d417e)
+
 
 **Lower Third Graphics:**
-![[lowerthirds.png]]
+![lowerthirds](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/b295ecdf-d8e0-48ad-a5fe-d66ef7ef2a46)
+
 
 **LED Wall Graphics:**
-![[fullscreengraphics.png]]
+![fullscreengraphics](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/91187865-9516-4660-9d0c-745324b3b805)
+
 
 
 ___
 ## **Exporting Files**
 
 In Photoshop, with your project open, go to **File / Export / Export As** or `Option + Shift + Command + W`
-![[exportclick.png]]
+<img width="652" alt="exportclick" src="https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/6778b31e-276a-4869-b56f-6d24a85ee23b">
 The Export As interface should open. When exporting **Full Screen** or **Lower Thirds** graphics, make sure the output resolution is `1920x1080` and Format is set to PNG with Transparency checked. Make sure the resolution is applied to all graphics in the lefthand side panel.
 
 When exporting the **LED Wall** graphics, keep the resolution as is.
 
-![[export window.png]]
+![exportwindow](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/53f61222-4328-403f-8af8-05ad34abda59)
+
 
 Export files to the respective folder inside the project folder. (ex. Full Screen Graphics exported into FULL folder inside project directory.
 
@@ -663,21 +677,25 @@ ___
 
 Log into [app.frame.io](https://app.frame.io/) and navigate to **Joe's Team** on the left hand side of the page. You should see the **Sermon Series** column.
 
-![[frameiomain.png]]
+<img width="845" alt="frameiomain" src="https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/c0a1f808-4913-441d-bc4f-72c9d83119e4">
+
 
 On the right hand side of the screen, click the **New** button and create a **New Folder.** Name the folder the title of the sermon series you're uploading. 
 
-![[frameionewfolder.png]]
+<img width="289" alt="frameionewfolder" src="https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/d14633c4-09c9-4da7-b2d2-ab551e0d4494">
+
 
 Navigate to the folder you just created, and drag in the 5 folders **(Fonts, Full, LED, LT, Working Files)** from your Project folder. Once the upload completes, your frame.io window should look similar to this:
 
-![[frameiofolders.png]]
+![frameiofolders](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/080fc83a-1ca1-4774-a592-6128bffff748)
+
 
 Now click the **Share** button, click **Share for review,** and select the 5 folders, then click **Create Link.** Copy the link (it should look something like `f.io/xXxXxXxX`.
 
-![[frameioshare1.png]]
+![frameioshare1](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/64bd9cad-7ea3-479c-b7c6-4c7434b65a49)
 
-![[frameioshare2.png]]
+![frameioshare2](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/eb1beaaf-a662-4c91-8455-2ec7bd89a7ca)
+
 
 Email that link to the emails below for feedback or [click this link.](mailto:joe.dimercurio@centralaz.com, jordan.rowan@centralaz.com, allison.mangrum@centralaz.com,cassie.kalinski@centralaz.com?cc=daniel.lies@centralaz.com&subject=Sermon%20Series%20for%20Review) to open a draft in your default mail app.
 
