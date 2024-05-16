@@ -1,8 +1,8 @@
 # SOP-Sermon-Series-Graphic-Creation
 
->**Department:** Media
->**Creation Date:** 04-08-2024
->**Last Modified:** 05-14-2024
+>**Department:** Media  
+>**Creation Date:** 04-08-2024  
+>**Last Modified:** 05-16-2024  
 >**Purpose:** Guidelines for the creation and specification for in-service sermon series graphics.
 
 
