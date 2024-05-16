@@ -568,7 +568,7 @@ NO TEXT
 ```
 ![[CentralGeneric_MessageReference_LT.png]]
 ___
-### ID SINGLE LOWER THIRD
+### **ID Lower Third**
 **FILENAME:** 
 ```
 *series_title*_ID_Single_LT.png
@@ -576,8 +576,8 @@ ___
 **DESCRIPTION:** Graphic for a single lower third ID
 **RESOLUTION:** 
 >**Graphic Size:** `1920x1080`
->**LT segment size:** `666x194`
-
+>**LT segment size:** `666x194`  
+  
 **CONTENTS:**
 `Transparent Background`
 ```
@@ -586,7 +586,7 @@ NO TEXT
 
 ![[CentralGeneric_ID_Single_LT.png]]
 ___
-### ID DUAL LOWER THIRD
+### **ID Dual Lower Third**
 **FILENAME:** 
 ```
 *series_title*_ID_Dual_LT.png
@@ -594,8 +594,8 @@ ___
 **DESCRIPTION:** Graphic for dual lower third IDs
 **RESOLUTION:**
 >**Graphic Size:** `1920x1080`
->**LT segment size:** `666x194` **x2**
-
+>**LT segment size:** `666x194` **x2**  
+  
 **CONTENTS:**
 `Transparent Background`
 ```
