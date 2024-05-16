@@ -49,7 +49,8 @@ Central Cross.svg
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
 **EXAMPLE:**
-![[CentralGeneric_Welcome_FULL.png]]
+![CentralGeneric_Welcome_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/98cc4b29-9c5f-47b3-bf9c-eb76dff72103)
+
 
 ___
 
@@ -70,7 +71,8 @@ Gilbert | Thurs. 6:00pm; Sun. 8:00, 9:30 & 11:00am
 Online | Sat. 5:00pm; Sun. 9:30 & 11:00am
 ```
 **EXAMPLE:**
-![[CentralGeneric_SeeYouNextWeek_FULL.png]]
+![CentralGeneric_SeeYouNextWeek_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/0405c095-a439-49cc-840b-74fe23fbe157)
+
 
 ___
 
@@ -91,7 +93,8 @@ Text "Hello" to 79138
 We'd love to connect with you!
 ```
 **EXAMPLE:**
-![[CentralGeneric_NewHere_FULL.png]]
+![CentralGeneric_NewHere_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/8740340f-affa-4a2d-a00e-5dccc94397a8)
+
 
 ___
 
@@ -110,7 +113,8 @@ Need Prayer?
 centralaz.com/prayer
 ```
 **EXAMPLE:**
-![[CentralGeneric_Prayer_FULL.png]]
+![CentralGeneric_Prayer_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/d75b905b-e5aa-493b-a7ba-242b0b5d7580)
+
 
 ___
 
@@ -127,7 +131,8 @@ ___
 Specific communion verse slide for series provided by Programming Pastor or Central project manager with Church Media Squad.
 ```
 **EXAMPLE:**
-![[CentralGeneric_Commmunion_FULL.png]]
+![CentralGeneric_Commmunion_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/99ab1379-4b4b-4676-b428-82cdd3a7639e)
+
 
 ___
 ### **What's Happening**
@@ -145,7 +150,8 @@ What's Happening at Central?
 centralaz.com/whatshappening
 ```
 **EXAMPLE:**
-![[CentralGeneric_WhatsHappening_FULL.png]]
+![CentralGeneric_WhatsHappening_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/d69ed28e-709a-4c3e-948a-9a2cb8b71ee1)
+
 
 ___
 ### **Ways to Give**
@@ -164,7 +170,8 @@ Online | centralaz.com/give
 App | Download the central app
 ```
 **EXAMPLE:**
-![[CentralGeneric_WaysToGive_FULL.png]]
+![CentralGeneric_WaysToGive_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/16fce9a4-8513-491d-a22b-1bc3ae708e28)
+
 
 ___
 
@@ -185,7 +192,8 @@ centralaz.com/baptism
 Email: baptisms@centralaz.com
 ```
 **EXAMPLE:**
-![[CentralGeneric_Baptism_FULL.png]]
+![CentralGeneric_Baptism_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/9d0f41bf-62ad-474f-a4b6-f298c227b609)
+
 
 ___
 
@@ -202,7 +210,8 @@ ___
 NO TEXT 
 ```
 **EXAMPLE:**
-![[CentralGeneric_Blank_FULL.png]]
+![CentralGeneric_Blank_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/85c25004-b837-47b3-ad28-fd94ad7d68b2)
+
 
 ___
 
@@ -226,7 +235,8 @@ NO TEXT
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
 **EXAMPLE:**
-![[Central_Generic_Gilbert_LEDWall_WALKIN_OUT.png]]
+![Central_Generic_Gilbert_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/d7aac571-2f74-486e-b0b4-08616b311040)
+
 
 ___
 
@@ -243,7 +253,8 @@ ___
 NO TEXT 
 ```
 **EXAMPLE:**
-![[Central_Generic_Gilbert_LEDWall_HOST.png]]
+![Central_Generic_Glendale_LEDWall_HOST](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/ae2809e5-ef43-4dab-869c-c60048d0a0ca)
+
 
 ___
 
@@ -266,7 +277,8 @@ NO TEXT
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
 **EXAMPLE:**
-![[Central_Generic_Mesa_LEDWall_WALKIN_OUT.png]]
+![Central_Generic_Mesa_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/6c334c32-a8dc-4662-9069-a5e7e561e879)
+
 
 ___
 
@@ -286,7 +298,8 @@ ___
 NO TEXT 
 ```
 **EXAMPLE:**
-![[Central_Generic_Mesa_LEDWall_HOST.png]]
+![Central_Generic_Mesa_LEDWall_HOST](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/e5e8e716-955b-488e-9ecc-c9cd84ca1c66)
+
 
 ___
 
@@ -306,7 +319,8 @@ NO TEXT
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
 **EXAMPLE:**
-![[Central_Generic_QueenCreek_LEDWall_WALKIN_OUT.png]]
+![Central_Generic_QueenCreek_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4c324f4d-89db-47be-828e-b5984c9379d3)
+
 
 ___
 
@@ -323,7 +337,8 @@ ___
 NO TEXT 
 ```
 **EXAMPLE:**
-![[Central_Generic_QueenCreek_LEDWall_HOST.png]]
+![Central_Generic_QueenCreek_LEDWall_HOST](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/2a4e880e-202b-461c-8d4c-02f29a1b14b1)
+
 
 ___
 
@@ -343,7 +358,8 @@ NO TEXT
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
 **EXAMPLE:**
-![[Central_Generic_Tempe_LEDWall_WALKIN_OUT.png]]
+![Central_Generic_Tempe_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4c23c1bb-9e43-44e9-b195-84eae4e03cae)
+
 
 ___
 
@@ -359,7 +375,8 @@ ___
 NO TEXT 
 ```
 **EXAMPLE:**
-![[Central_Generic_Tempe_LEDWall_HOST.png]]
+![Central_Generic_Tempe_LEDWall_HOST](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/e2e2fb29-1d0f-4cab-b573-66add4245cac)
+
 
 ___
 
@@ -379,7 +396,8 @@ NO TEXT
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
 **EXAMPLE:**
-![[Central_Generic_Glendale_LEDWall_WALKIN_OUT.png]]
+![Central_Generic_Glendale_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/91be5f6b-4057-4912-bfd5-4818e8e1e676)
+
 
 ___
 
@@ -396,7 +414,8 @@ ___
 NO TEXT 
 ```
 **EXAMPLE**
-![[Central_Generic_Glendale_LEDWall_HOST.png]]
+![Central_Generic_Glendale_LEDWall_HOST](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/5a17bd59-5fc0-4dfc-9f86-24cef51a18f7)
+
 
 
 ___
