@@ -20,9 +20,9 @@ ___
 ```
 *series_title*_FULL.png
 ```
-**DESCRIPTION**: Main series graphic containing the title of the series.
-**RESOLUTION:** `1920x1080`
-**CONTENTS**:
+**DESCRIPTION**: Main series graphic containing the title of the series.  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS**:  
 ```
 *Series Title*
 
@@ -39,9 +39,9 @@ ___
 ```
 *series_title*_Welcome_FULL.png
 ```
-**DESCRIPTION:** Graphic for in-service Walk-In
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for in-service Walk-In  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 Welcome to Central
 
@@ -60,9 +60,9 @@ ___
 ```
 *series_title*_SeeYouNextWeek_FULL.png
 ```
-**DESCRIPTION:** Graphic for in-service Walk-Out
-**RESOLUTION**: `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for in-service Walk-Out  
+**RESOLUTION**: `1920x1080`  
+**CONTENTS:**  
 ```
 See You Next Week
 
@@ -82,9 +82,9 @@ ___
 ```
 *series_title*_NewHere_FULL.png
 ```
-**DESCRIPTION:** Graphic for host New Here segment
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for host New Here segment  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 New Here?
 
@@ -104,9 +104,9 @@ ___
 ```
 *series_title*_Prayer_FULL.png
 ```
-**DESCRIPTION:** Graphic for host Prayer segment
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for host Prayer segment  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 Need Prayer?
 
@@ -124,9 +124,9 @@ ___
 ```
 *series_title*_Commmunion_FULL.png
 ```
-**DESCRIPTION:** Graphic for communion reflection slide
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for communion reflection slide  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 Specific communion verse slide for series provided by Programming Pastor or Central project manager with Church Media Squad.
 ```
@@ -141,9 +141,9 @@ ___
 ```
 *series_title*_WhatsHappening_FULL.png
 ```
-**DESCRIPTION:** Graphic for What's Happening? host segment.
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for What's Happening? host segment.  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 What's Happening at Central?
 
@@ -156,13 +156,13 @@ centralaz.com/whatshappening
 ___
 ### **Ways to Give**
 
-**FILENAME:** 
+**FILENAME:**
 ```
 *series_title*_WaysToGive_FULL.png
 ```
-**DESCRIPTION:** Graphic for communion reflection slide
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for communion reflection slide  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 Ways to Give
 
@@ -181,9 +181,9 @@ ___
 ```
 *series_title*_Baptism_FULL.png
 ```
-**DESCRIPTION:** Graphic for baptism info host moment.
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for baptism info host moment.  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 Questions about Baptism?
 
@@ -203,9 +203,9 @@ ___
 ```
 *series_title*_Blank.png
 ```
-**DESCRIPTION:** Blank graphic, following series theme. For used for ProPresenter ID?s and verses.
-**RESOLUTION:** `1920x1080`
-**CONTENTS:**
+**DESCRIPTION:** Blank graphic, following series theme. For used for ProPresenter ID?s and verses.  
+**RESOLUTION:** `1920x1080`  
+**CONTENTS:**  
 ```
 NO TEXT 
 ```
@@ -221,13 +221,13 @@ ___
 
 ### **Gilbert LED Wall Walk In / Walk Out**
 
-**FILENAME:** 
+**FILENAME:**  
 ```
 *series_title*_Gilbert_LEDWall_WALKIN_OUT.png
 ```
-**DESCRIPTION:** Graphic for LED wall in GIlbert Campus. For walk in/walk out. Theme based on series graphic.
-**RESOLUTION:** `2498x1152`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in GIlbert Campus. For walk in/walk out. Theme based on series graphic.  
+**RESOLUTION:** `2498x1152`  
+**CONTENTS:**  
 ```
 Central Cross.svg
 
@@ -246,9 +246,9 @@ ___
 ```
 *series_title*_Gilbert_LEDWall_HOST.png
 ```
-**DESCRIPTION:** Graphic for LED wall in GIlbert Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.
-**RESOLUTION:** `2498x1152`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in GIlbert Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.  
+**RESOLUTION:** `2498x1152`  
+**CONTENTS:**  
 ```
 NO TEXT 
 ```
@@ -265,11 +265,11 @@ ___
 *series_title*_Mesa_LEDWall_WALKIN_OUT.png
 ```
 
->**IMPORTANT NOTE:** **Mesa specific, this LED wall is made up of multiple panels. Don't use any graphic borders or any continuous lines because they may not translate across panels. See that the borders are removed for these graphics.**
+>**IMPORTANT NOTE:** **Mesa specific, this LED wall is made up of multiple panels. Don't use any graphic borders or any continuous lines because they may not translate across panels. See that the borders are removed for these graphics.**  
 
-**DESCRIPTION:** Graphic for LED wall in Mesa Campus. For walk in/walk out. Theme based on series graphic.
-**RESOLUTION:** `2990x1438`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Mesa Campus. For walk in/walk out. Theme based on series graphic.  
+**RESOLUTION:** `2990x1438`  
+**CONTENTS:**  
 ```
 Central Cross.svg
 
@@ -289,11 +289,11 @@ ___
 *series_title*_Mesa_LEDWall_HOST.png
 ```
 
->**IMPORTANT NOTE:** **Mesa specific, this LED wall is made up of multiple panels. Don't use any graphic borders or any continuous lines because they may not translate across panels. See that the borders are removed for these graphics.**
+>**IMPORTANT NOTE:** **Mesa specific, this LED wall is made up of multiple panels. Don't use any graphic borders or any continuous lines because they may not translate across panels. See that the borders are removed for these graphics.**  
 
-**DESCRIPTION:** Graphic for LED wall in Mesa Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.
-**RESOLUTION:** `2990x1438`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Mesa Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.  
+**RESOLUTION:** `2990x1438`  
+**CONTENTS:**  
 ```
 NO TEXT 
 ```
@@ -309,9 +309,9 @@ ___
 ```
 *series_title*_QueenCreek_LEDWall_WALKIN_OUT.png
 ```
-**DESCRIPTION:** Graphic for LED wall in Queen Creek Campus. For walk in/walk out. Theme based on series graphic.
-**RESOLUTION:** `1920x1152`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Queen Creek Campus. For walk in/walk out. Theme based on series graphic.  
+**RESOLUTION:** `1920x1152`  
+**CONTENTS:**  
 ```
 Central Cross.svg
 
@@ -330,9 +330,9 @@ ___
 ```
 *series_title*_QueenCreek_LEDWall_HOST.png
 ```
-**DESCRIPTION:** Graphic for LED wall in Queen Creek Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.
-**RESOLUTION:** `1920x1152`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Queen Creek Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.  
+**RESOLUTION:** `1920x1152`  
+**CONTENTS:**  
 ```
 NO TEXT 
 ```
@@ -348,9 +348,9 @@ ___
 ```
 *series_title*_Tempe_LEDWall_WALKIN_OUT.png
 ```
-**DESCRIPTION:** Graphic for LED wall in Tempe Campus. For walk in/walk out. Theme based on series graphic.
-**RESOLUTION:** `1728x960`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Tempe Campus. For walk in/walk out. Theme based on series graphic.  
+**RESOLUTION:** `1728x960`  
+**CONTENTS:**  
 ```
 Central Cross.svg
 
@@ -368,9 +368,9 @@ ___
 ```
 *series_title*_Tempe_LEDWall_HOST.png
 ```
-**DESCRIPTION:** Graphic for LED wall in Tempe Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.
-**RESOLUTION:** `1728x960`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Tempe Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.  
+**RESOLUTION:** `1728x960`  
+**CONTENTS:**  
 ```
 NO TEXT 
 ```
@@ -386,9 +386,9 @@ ___
 ```
 *series_title*_Glendale_LEDWall_WALKIN_OUT.png
 ```
-**DESCRIPTION:** Graphic for LED wall in Glendale Campus. For walk in/walk out. Theme based on series graphic.
-**RESOLUTION:** `2498x1152`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Glendale Campus. For walk in/walk out. Theme based on series graphic.  
+**RESOLUTION:** `2498x1152`  
+**CONTENTS:**  
 ```
 Central Cross.svg
 
@@ -407,9 +407,9 @@ ___
 ```
 *series_title*_Glendale_LEDWall_HOST.png
 ```
-**DESCRIPTION:** Graphic for LED wall in Glendale Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.
-**RESOLUTION:** `2498x1152`
-**CONTENTS:**
+**DESCRIPTION:** Graphic for LED wall in Glendale Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.  
+**RESOLUTION:** `2498x1152`  
+**CONTENTS:**  
 ```
 NO TEXT 
 ```
@@ -429,12 +429,12 @@ ___
 ```
 *series_title*_NewHere_LT.png
 ```
-**DESCRIPTION:** Graphic for host New Here segment
-**RESOLUTION:**
->**Graphic Size:** `1920x1080`
->**LT segment size:** `1651x260`
+**DESCRIPTION:** Graphic for host New Here segment  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
+>**LT segment size:** `1651x260`  
 
-**CONTENTS:** 
+**CONTENTS:**  
 `Transparent Background`
 ```
 New Here?
@@ -450,12 +450,12 @@ ___
 ```
 *series_title*_Prayer_LT.png
 ```
-**DESCRIPTION:** Graphic for host Prayer segment
-**RESOLUTION:**
->**Graphic Size:** `1920x1080`
->**LT segment size:** `1651x260`
+**DESCRIPTION:** Graphic for host Prayer segment  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
+>**LT segment size:** `1651x260`  
 
-**CONTENTS:**
+**CONTENTS:**  
 `Transparent Background`
 ```
 Need Prayer?
@@ -471,12 +471,12 @@ ___
 ```
 *series_title*_WhatsHappening_LT.png
 ```
-**DESCRIPTION:** Graphic for What's Happening? host segment.
-**RESOLUTION:**
->**Graphic Size:** `1920x1080`
->**LT segment size:** `1651x260`
+**DESCRIPTION:** Graphic for What's Happening? host segment.  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
+>**LT segment size:** `1651x260`  
 
-**CONTENTS:**
+**CONTENTS:**  
 `Transparent Background`
 ```
 What's Happening at Central?
@@ -492,12 +492,12 @@ ___
 ```
 *series_title*_Baptism_LT.png
 ```
-**DESCRIPTION:** Graphic for baptism info host moment.
-**RESOLUTION:**
->**Graphic Size:** `1920x1080` 
->**LT segment size:** `651x260`
+**DESCRIPTION:** Graphic for baptism info host moment.  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`   
+>**LT segment size:** `651x260`  
 
-**CONTENTS:**
+**CONTENTS:**  
 `Transparent Background`
 ```
 Questions about Baptism?
@@ -515,11 +515,11 @@ ___
 *series_title*_WaysToGive_LT.png
 ```
 **DESCRIPTION:** Graphic for communion reflection slide
-**RESOLUTION:**
->**Graphic Size:** `1920x1080`
->**LT segment size:** `1651x260`
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
+>**LT segment size:** `1651x260`  
 
-**CONTENTS:**
+**CONTENTS:**  
 `Transparent Background`
 ```
 Ways to Give
@@ -536,10 +536,10 @@ ___
 ```
 *series_title*_Message_LT.png
 ```
-**DESCRIPTION:** Graphic for message slides
-**RESOLUTION:**
->**Graphic Size:** `1920x1080`
->**LT segment size:** `1651x260`
+**DESCRIPTION:** Graphic for message slides  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
+>**LT segment size:** `1651x260`  
 
 **CONTENTS:**
 `Transparent Background`
@@ -555,13 +555,13 @@ ___
 ```
 *series_title*_MessageReference_LT.png
 ```
-**DESCRIPTION:** Graphic for message slides, with top segment for the Bible verse reference.
-**RESOLUTION:**
->**Graphic Size:** `1920x1080`
->**LT segment size:** `1651x260`
->**Reference segment size:** `500x100`
+**DESCRIPTION:** Graphic for message slides, with top segment for the Bible verse reference.  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
+>**LT segment size:** `1651x260`  
+>**Reference segment size:** `500x100`  
 
-**CONTENTS:**
+**CONTENTS:**  
 `Transparent Background`
 ```
 NO TEXT
@@ -573,12 +573,12 @@ ___
 ```
 *series_title*_ID_Single_LT.png
 ```
-**DESCRIPTION:** Graphic for a single lower third ID
-**RESOLUTION:** 
->**Graphic Size:** `1920x1080`
->**LT segment size:** `666x194`  
+**DESCRIPTION:** Graphic for a single lower third ID  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
+>**LT segment size:** `666x194`   
   
-**CONTENTS:**
+**CONTENTS:**  
 `Transparent Background`
 ```
 NO TEXT
@@ -591,9 +591,9 @@ ___
 ```
 *series_title*_ID_Dual_LT.png
 ```
-**DESCRIPTION:** Graphic for dual lower third IDs
-**RESOLUTION:**
->**Graphic Size:** `1920x1080`
+**DESCRIPTION:** Graphic for dual lower third IDs  
+**RESOLUTION:**  
+>**Graphic Size:** `1920x1080`  
 >**LT segment size:** `666x194` **x2**  
   
 **CONTENTS:**
@@ -610,7 +610,7 @@ ___
 ## **File Management**
 
 **FOLDER LAYOUT**
-Organize your project root folder as follows:
+Organize your project root folder as follows:  
 
 ```
 /Project Folder
