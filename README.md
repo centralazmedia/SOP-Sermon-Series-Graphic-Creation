@@ -1,7 +1,4 @@
-# SOP-Sermon-Series-Graphic-Creation___
-share=true
-___
-
+# SOP-Sermon-Series-Graphic-Creation
 
 >**Department:** Media
 >**Creation Date:** 04-08-2024
