@@ -29,7 +29,7 @@ ___
 *Series Subtitle if applicable*
 ```
 **EXAMPLE**:
-![[Crossroadsv3.png]]
+![Crossroadsv3](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/27cee6b2-eecc-4c9c-a6d7-93d87c805d23)
 
 ___
 
