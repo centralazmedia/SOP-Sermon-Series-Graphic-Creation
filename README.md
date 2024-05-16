@@ -47,7 +47,7 @@ Welcome to Central
 
 Central Cross.svg
 ```
-[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
+[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
 **EXAMPLE:**
 ![CentralGeneric_Welcome_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/98cc4b29-9c5f-47b3-bf9c-eb76dff72103)
 
@@ -233,7 +233,7 @@ Central Cross.svg
 
 NO TEXT 
 ```
-[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
+[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
 **EXAMPLE:**
 ![Central_Generic_Gilbert_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/d7aac571-2f74-486e-b0b4-08616b311040)
 
@@ -275,7 +275,7 @@ Central Cross.svg
 
 NO TEXT 
 ```
-[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
+[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
 **EXAMPLE:**
 ![Central_Generic_Mesa_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/6c334c32-a8dc-4662-9069-a5e7e561e879)
 
@@ -317,7 +317,7 @@ Central Cross.svg
 
 NO TEXT 
 ```
-[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
+[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
 **EXAMPLE:**
 ![Central_Generic_QueenCreek_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4c324f4d-89db-47be-828e-b5984c9379d3)
 
@@ -356,7 +356,7 @@ Central Cross.svg
 
 NO TEXT 
 ```
-[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
+[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
 **EXAMPLE:**
 ![Central_Generic_Tempe_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4c23c1bb-9e43-44e9-b195-84eae4e03cae)
 
@@ -394,7 +394,7 @@ Central Cross.svg
 
 NO TEXT 
 ```
-[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)
+[Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
 **EXAMPLE:**
 ![Central_Generic_Glendale_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/91be5f6b-4057-4912-bfd5-4818e8e1e676)
 
@@ -695,14 +695,3 @@ Now click the **Share** button, click **Share for review,** and select the 5 fol
 ![frameioshare1](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/64bd9cad-7ea3-479c-b7c6-4c7434b65a49)
 
 ![frameioshare2](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/eb1beaaf-a662-4c91-8455-2ec7bd89a7ca)
-
-
-Email that link to the emails below for feedback or [click this link.](mailto:joe.dimercurio@centralaz.com, jordan.rowan@centralaz.com, allison.mangrum@centralaz.com,cassie.kalinski@centralaz.com?cc=daniel.lies@centralaz.com&subject=Sermon%20Series%20for%20Review) to open a draft in your default mail app.
-
-```
-joe.dimercurio@centralaz.com,
-jordan.rowan@centralaz.com,
-allison.mangrum@centralaz.com,
-cassie.kalinski@centralaz.com,
-daniel.lies@centralaz.com,
-```
