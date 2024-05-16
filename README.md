@@ -48,6 +48,7 @@ Welcome to Central
 Central Cross.svg
 ```  
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
+
 **EXAMPLE:**
 ![CentralGeneric_Welcome_FULL](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/98cc4b29-9c5f-47b3-bf9c-eb76dff72103)
 
