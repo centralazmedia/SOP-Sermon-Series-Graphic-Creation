@@ -447,6 +447,7 @@ New Here?
 
 Text "Hello" to 79138
 ```
+**EXAMPLE:**
 ![CentralGeneric_NewHere_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/a3fb5191-0cc9-455d-ad45-d24becddea95)
 
 ___
@@ -469,6 +470,7 @@ Need Prayer?
 
 centralaz.com/prayer
 ```
+**EXAMPLE:**
 ![CentralGeneric_Prayer_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/f1737a60-3545-44d9-9c87-be8213638089)
 
 
@@ -492,7 +494,7 @@ What's Happening at Central?
 
 centralaz.com/whatshappening
 ```
-![CentralGeneric_WhatsHappening_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/7d058f71-6026-4154-9470-0943e68baee8)
+**EXAMPLE:**![CentralGeneric_WhatsHappening_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/7d058f71-6026-4154-9470-0943e68baee8)
 
 
 ___
@@ -517,6 +519,7 @@ centralaz.com/baptism
 
 Email: baptisms@centralaz.com
 ```
+**EXAMPLE:**
 ![CentralGeneric_Baptism_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/52f3196e-46ad-492f-9a2e-5c65f3cc9626)
 
 ___
@@ -539,6 +542,7 @@ Ways to Give
 centralaz.com/give or
 Download the Central App
 ```
+**EXAMPLE:**
 ![CentralGeneric_WaysToGive_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4ce5d86d-a86d-4c4f-b476-5d507fb9dab8)
 
 ___
@@ -559,6 +563,7 @@ ___
 ```
 NO TEXT
 ```
+**EXAMPLE:**
 ![CentralGeneric_Message_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/f5c79697-65e8-4ac5-9104-dfcfe6bad1d3)
 
 ___
@@ -580,6 +585,7 @@ ___
 ```
 NO TEXT
 ```
+**EXAMPLE:**
 ![CentralGeneric_MessageReference_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/44337bdd-8ae6-4e6f-9fa9-c58d830e06d7)
 
 ___
@@ -598,6 +604,7 @@ ___
 ```
 NO TEXT
 ```
+**EXAMPLE:**
 ![CentralGeneric_ID_Single_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4eba6e72-91a4-4415-b140-c29d84bb208a)
 ___
 ### **ID Dual Lower Third**
@@ -615,6 +622,7 @@ ___
 ```
 NO TEXT
 ```
+**EXAMPLE:**
 ![CentralGeneric_ID_Dual_LT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/96d33bb3-2e40-4ce0-af30-fa66e7334768)
 
 ___
