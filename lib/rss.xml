@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 17 May 2024 00:24:34 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 17 May 2024 00:24:33 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Building Graphics]]></title><description><![CDATA[ 
+ <br>
+Department: Media<br>
+Creation Date: 04-08-2024<br>
+Last Modified: 05-14-2024<br>
+Purpose: Guidelines for the creation and specification for in-service sermon series graphics.
+<br><br><br><br><br><br>FILENAME: <br>*series_title*_FULL.png
+Copy<br>DESCRIPTION: Main series graphic containing the title of the series.<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>*Series Title*
+
+*Series Subtitle if applicable*
+Copy<br>EXAMPLE:<br>
+<img alt="Crossroadsv3.png" src="sops\assets\images\crossroadsv3.png"><br><br><br>FILENAME: <br>*series_title*_Welcome_FULL.png
+Copy<br>DESCRIPTION: Graphic for in-service Walk-In<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>Welcome to Central
+
+Central Cross.svg
+Copy<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" target="_blank">Central Cross.svg</a><br>
+EXAMPLE:<br>
+<img alt="CentralGeneric_Welcome_FULL.png" src="sops\assets\images\centralgeneric_welcome_full.png"><br><br><br>FILENAME: <br>*series_title*_SeeYouNextWeek_FULL.png
+Copy<br>DESCRIPTION: Graphic for in-service Walk-Out<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>See You Next Week
+
+All Campuses | Sun. 9:30 &amp; 11:00am
+Gilbert | Thurs. 6:00pm; Sun. 8:00, 9:30 &amp; 11:00am
+Online | Sat. 5:00pm; Sun. 9:30 &amp; 11:00am
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_SeeYouNextWeek_FULL.png" src="sops\assets\images\centralgeneric_seeyounextweek_full.png"><br><br><br>FILENAME: <br>*series_title*_NewHere_FULL.png
+Copy<br>DESCRIPTION: Graphic for host New Here segment<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>New Here?
+
+Text "Hello" to 79138
+
+We'd love to connect with you!
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_NewHere_FULL.png" src="sops\assets\images\centralgeneric_newhere_full.png"><br><br><br>FILENAME: <br>*series_title*_Prayer_FULL.png
+Copy<br>DESCRIPTION: Graphic for host Prayer segment<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>Need Prayer?
+
+centralaz.com/prayer
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_Prayer_FULL.png" src="sops\assets\images\centralgeneric_prayer_full.png"><br><br><br>FILENAME: <br>*series_title*_Commmunion_FULL.png
+Copy<br>DESCRIPTION: Graphic for communion reflection slide<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>Specific communion verse slide for series provided by Programming Pastor or Central project manager with Church Media Squad.
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_Commmunion_FULL.png" src="sops\assets\images\centralgeneric_commmunion_full.png"><br><br><br>FILENAME: <br>*series_title*_WhatsHappening_FULL.png
+Copy<br>DESCRIPTION: Graphic for What's Happening? host segment.<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>What's Happening at Central?
+
+centralaz.com/whatshappening
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_WhatsHappening_FULL.png" src="sops\assets\images\centralgeneric_whatshappening_full.png"><br><br><br>FILENAME: <br>*series_title*_WaysToGive_FULL.png
+Copy<br>DESCRIPTION: Graphic for communion reflection slide<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>Ways to Give
+
+Online | centralaz.com/give
+App | Download the central app
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_WaysToGive_FULL.png" src="sops\assets\images\centralgeneric_waystogive_full.png"><br><br><br>FILENAME: <br>*series_title*_Baptism_FULL.png
+Copy<br>DESCRIPTION: Graphic for baptism info host moment.<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>Questions about Baptism?
+
+centralaz.com/baptism
+
+Email: baptisms@centralaz.com
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_Baptism_FULL.png" src="sops\assets\images\centralgeneric_baptism_full.png"><br><br><br>FILENAME: <br>*series_title*_Blank.png
+Copy<br>DESCRIPTION: Blank graphic, following series theme. For used for ProPresenter ID?s and verses.<br>
+RESOLUTION: 1920x1080<br>
+CONTENTS:<br>NO TEXT 
+Copy<br>EXAMPLE:<br>
+<img alt="CentralGeneric_Blank_FULL.png" src="sops\assets\images\centralgeneric_blank_full.png"><br><br><br><br><br>FILENAME: <br>*series_title*_Gilbert_LEDWall_WALKIN_OUT.png
+Copy<br>DESCRIPTION: Graphic for LED wall in GIlbert Campus. For walk in/walk out. Theme based on series graphic.<br>
+RESOLUTION: 2498x1152<br>
+CONTENTS:<br>Central Cross.svg
+
+NO TEXT 
+Copy<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" target="_blank">Central Cross.svg</a><br>
+EXAMPLE:<br>
+<img alt="Central_Generic_Gilbert_LEDWall_WALKIN_OUT.png" src="sops\assets\images\central_generic_gilbert_ledwall_walkin_out.png"><br><br><br>FILENAME: <br>*series_title*_Gilbert_LEDWall_HOST.png
+Copy<br>DESCRIPTION: Graphic for LED wall in GIlbert Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.<br>
+RESOLUTION: 2498x1152<br>
+CONTENTS:<br>NO TEXT 
+Copy<br>EXAMPLE:<br>
+<img alt="Central_Generic_Gilbert_LEDWall_HOST.png" src="sops\assets\images\central_generic_gilbert_ledwall_host.png"><br><br><br>FILENAME: <br>*series_title*_Mesa_LEDWall_WALKIN_OUT.png
+Copy<br>
+IMPORTANT NOTE: Mesa specific, this LED wall is made up of multiple panels. Don't use any graphic borders or any continuous lines because they may not translate across panels. See that the borders are removed for these graphics.
+<br>DESCRIPTION: Graphic for LED wall in Mesa Campus. For walk in/walk out. Theme based on series graphic.<br>
+RESOLUTION: 2990x1438<br>
+CONTENTS:<br>Central Cross.svg
+
+NO TEXT 
+Copy<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" target="_blank">Central Cross.svg</a><br>
+EXAMPLE:<br>
+<img alt="Central_Generic_Mesa_LEDWall_WALKIN_OUT.png" src="sops\assets\images\central_generic_mesa_ledwall_walkin_out.png"><br><br><br>FILENAME: <br>*series_title*_Mesa_LEDWall_HOST.png
+Copy<br>
+IMPORTANT NOTE: Mesa specific, this LED wall is made up of multiple panels. Don't use any graphic borders or any continuous lines because they may not translate across panels. See that the borders are removed for these graphics.
+<br>DESCRIPTION: Graphic for LED wall in Mesa Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.<br>
+RESOLUTION: 2990x1438<br>
+CONTENTS:<br>NO TEXT 
+Copy<br>EXAMPLE:<br>
+<img alt="Central_Generic_Mesa_LEDWall_HOST.png" src="sops\assets\images\central_generic_mesa_ledwall_host.png"><br><br><br>FILENAME: <br>*series_title*_QueenCreek_LEDWall_WALKIN_OUT.png
+Copy<br>DESCRIPTION: Graphic for LED wall in Queen Creek Campus. For walk in/walk out. Theme based on series graphic.<br>
+RESOLUTION: 1920x1152<br>
+CONTENTS:<br>Central Cross.svg
+
+NO TEXT 
+Copy<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" target="_blank">Central Cross.svg</a><br>
+EXAMPLE:<br>
+<img alt="Central_Generic_QueenCreek_LEDWall_WALKIN_OUT.png" src="sops\assets\images\central_generic_queencreek_ledwall_walkin_out.png"><br><br><br>FILENAME: <br>*series_title*_QueenCreek_LEDWall_HOST.png
+Copy<br>DESCRIPTION: Graphic for LED wall in Queen Creek Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.<br>
+RESOLUTION: 1920x1152<br>
+CONTENTS:<br>NO TEXT 
+Copy<br>EXAMPLE:<br>
+<img alt="Central_Generic_QueenCreek_LEDWall_HOST.png" src="sops\assets\images\central_generic_queencreek_ledwall_host.png"><br><br><br>FILENAME: <br>*series_title*_Tempe_LEDWall_WALKIN_OUT.png
+Copy<br>DESCRIPTION: Graphic for LED wall in Tempe Campus. For walk in/walk out. Theme based on series graphic.<br>
+RESOLUTION: 1728x960<br>
+CONTENTS:<br>Central Cross.svg
+
+NO TEXT 
+Copy<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" target="_blank">Central Cross.svg</a><br>
+EXAMPLE:<br>
+<img alt="Central_Generic_Tempe_LEDWall_WALKIN_OUT.png" src="sops\assets\images\central_generic_tempe_ledwall_walkin_out.png"><br><br><br>FILENAME: <br>*series_title*_Tempe_LEDWall_HOST.png
+Copy<br>DESCRIPTION: Graphic for LED wall in Tempe Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.<br>
+RESOLUTION: 1728x960<br>
+CONTENTS:<br>NO TEXT 
+Copy<br>EXAMPLE:<br>
+<img alt="Central_Generic_Tempe_LEDWall_HOST.png" src="sops\assets\images\central_generic_tempe_ledwall_host.png"><br><br><br>FILENAME: <br>*series_title*_Glendale_LEDWall_WALKIN_OUT.png
+Copy<br>DESCRIPTION: Graphic for LED wall in Glendale Campus. For walk in/walk out. Theme based on series graphic.<br>
+RESOLUTION: 2498x1152<br>
+CONTENTS:<br>Central Cross.svg
+
+NO TEXT 
+Copy<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing" target="_blank">Central Cross.svg</a><br>
+EXAMPLE:<br>
+<img alt="Central_Generic_Glendale_LEDWall_WALKIN_OUT.png" src="sops\assets\images\central_generic_glendale_ledwall_walkin_out.png"><br><br><br>FILENAME: <br>*series_title*_Glendale_LEDWall_HOST.png
+Copy<br>DESCRIPTION: Graphic for LED wall in Glendale Campus. For host moments. Theme based on series graphic. Just the background of series for simplicity during host moments.<br>
+RESOLUTION: 2498x1152<br>
+CONTENTS:<br>NO TEXT 
+Copy<br>EXAMPLE<br>
+<img alt="Central_Generic_Glendale_LEDWall_HOST.png" src="sops\assets\images\central_generic_glendale_ledwall_host.png"><br><br><br><br><br>FILENAME: <br>*series_title*_NewHere_LT.png
+Copy<br>DESCRIPTION: Graphic for host New Here segment<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 1651x260
+<br>CONTENTS:<br>
+Transparent Background<br>New Here?
+
+Text "Hello" to 79138
+Copy<br><img alt="CentralGeneric_NewHere_LT.png" src="sops\assets\images\centralgeneric_newhere_lt.png"><br><br><br>FILENAME: <br>*series_title*_Prayer_LT.png
+Copy<br>DESCRIPTION: Graphic for host Prayer segment<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 1651x260
+<br>CONTENTS:<br>
+Transparent Background<br>Need Prayer?
+
+centralaz.com/prayer
+Copy<br><img alt="CentralGeneric_Prayer_LT.png" src="sops\assets\images\centralgeneric_prayer_lt.png"><br><br><br>FILENAME: <br>*series_title*_WhatsHappening_LT.png
+Copy<br>DESCRIPTION: Graphic for What's Happening? host segment.<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 1651x260
+<br>CONTENTS:<br>
+Transparent Background<br>What's Happening at Central?
+
+centralaz.com/whatshappening
+Copy<br><img alt="CentralGeneric_WhatsHappening_LT.png" src="sops\assets\images\centralgeneric_whatshappening_lt.png"><br><br><br>FILENAME: <br>*series_title*_Baptism_LT.png
+Copy<br>DESCRIPTION: Graphic for baptism info host moment.<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 651x260
+<br>CONTENTS:<br>
+Transparent Background<br>Questions about Baptism?
+
+centralaz.com/baptism
+
+Email: baptisms@centralaz.com
+Copy<br><img alt="CentralGeneric_Baptism_LT.png" src="sops\assets\images\centralgeneric_baptism_lt.png"><br><br><br>FILENAME: <br>*series_title*_WaysToGive_LT.png
+Copy<br>DESCRIPTION: Graphic for communion reflection slide<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 1651x260
+<br>CONTENTS:<br>
+Transparent Background<br>Ways to Give
+
+centralaz.com/give or
+Download the Central App
+Copy<br><img alt="CentralGeneric_WaysToGive_LT.png" src="sops\assets\images\centralgeneric_waystogive_lt.png"><br><br><br>FILENAME: <br>*series_title*_Message_LT.png
+Copy<br>DESCRIPTION: Graphic for message slides<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 1651x260
+<br>CONTENTS:<br>
+Transparent Background<br>NO TEXT
+Copy<br><img alt="CentralGeneric_Message_LT.png" src="sops\assets\images\centralgeneric_message_lt.png"><br><br><br>FILENAME: <br>*series_title*_MessageReference_LT.png
+Copy<br>DESCRIPTION: Graphic for message slides, with top segment for the Bible verse reference.<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 1651x260<br>
+Reference segment size: 500x100
+<br>CONTENTS:<br>
+Transparent Background<br>NO TEXT
+Copy<br><img alt="CentralGeneric_MessageReference_LT.png" src="sops\assets\images\centralgeneric_messagereference_lt.png"><br><br><br>FILENAME: <br>*series_title*_ID_Single_LT.png
+Copy<br>DESCRIPTION: Graphic for a single lower third ID<br>
+RESOLUTION: <br>
+Graphic Size: 1920x1080<br>
+LT segment size: 666x194
+<br>CONTENTS:<br>
+Transparent Background<br>NO TEXT
+Copy<br><img alt="CentralGeneric_ID_Single_LT.png" src="sops\assets\images\centralgeneric_id_single_lt.png"><br><br><br>FILENAME: <br>*series_title*_ID_Dual_LT.png
+Copy<br>DESCRIPTION: Graphic for dual lower third IDs<br>
+RESOLUTION:<br>
+Graphic Size: 1920x1080<br>
+LT segment size: 666x194 x2
+<br>CONTENTS:<br>
+Transparent Background<br>NO TEXT
+Copy<br><img alt="CentralGeneric_ID_Dual_LT.png" src="sops\assets\images\centralgeneric_id_dual_lt.png"><br><br><br><br><br>FOLDER LAYOUT<br>
+Organize your project root folder as follows:<br>/Project Folder
+    Fonts            (All fonts used in project)
+    Full             (All full screen graphics exports)
+    LED              (All LED wall graphics exports)
+    LT               (All lower third graphics exports)
+    Working Files    (All Photoshop working files)
+Copy<br><img alt="projectfolder.png" src="sops\assets\images\projectfolder.png"><br><br><br>Photoshop Project Layout:<br>
+I find it best to have three separate photoshop files. One for Full Screen Graphics, one for Lower Thirds Graphics, and one for LED Wall Graphics. Create each needed graphic as a different artboard within the project. See example screenshots below.
+<br>Full Screen Graphics:<br>
+<img alt="fullscreengraphics.png" src="sops\assets\images\fullscreengraphics.png"><br>Lower Third Graphics:<br>
+<img alt="lowerthirds.png" src="sops\assets\images\lowerthirds.png"><br>LED Wall Graphics:<br>
+<img alt="fullscreengraphics.png" src="sops\assets\images\fullscreengraphics.png"><br><br><br>In Photoshop, with your project open, go to File / Export / Export As or Option + Shift + Command + W<br>
+<img alt="exportclick.png" src="sops\assets\images\exportclick.png"><br>
+The Export As interface should open. When exporting Full Screen or Lower Thirds graphics, make sure the output resolution is 1920x1080 and Format is set to PNG with Transparency checked. Make sure the resolution is applied to all graphics in the lefthand side panel.<br>When exporting the LED Wall graphics, keep the resolution as is.<br><img alt="export window.png" src="sops\assets\images\export-window.png"><br>Export files to the respective folder inside the project folder. (ex. Full Screen Graphics exported into FULL folder inside project directory.<br><br><br><br><br>Log into <a data-tooltip-position="top" aria-label="https://app.frame.io/" rel="noopener" class="external-link" href="https://app.frame.io/" target="_blank">app.frame.io</a> and navigate to Joe's Team on the left hand side of the page. You should see the Sermon Series column.<br><img alt="frameiomain.png" src="sops\assets\images\frameiomain.png"><br>On the right hand side of the screen, click the New button and create a New Folder. Name the folder the title of the sermon series you're uploading. <br><img alt="frameionewfolder.png" src="sops\assets\images\frameionewfolder.png"><br>Navigate to the folder you just created, and drag in the 5 folders (Fonts, Full, LED, LT, Working Files) from your Project folder. Once the upload completes, your frame.io window should look similar to this:<br><img alt="frameiofolders.png" src="sops\assets\images\frameiofolders.png"><br>Now click the Share button, click Share for review, and select the 5 folders, then click Create Link. Copy the link (it should look something like f.io/xXxXxXxX.<br><img alt="frameioshare1.png" src="sops\assets\images\frameioshare1.png"><br><img alt="frameioshare2.png" src="sops\assets\images\frameioshare2.png"><br>Email that link to the emails below for feedback or [click this link.](mailto:<a data-tooltip-position="top" aria-label="mailto:joe.dimercurio@centralaz.com" rel="noopener" class="external-link" href="mailto:joe.dimercurio@centralaz.com" target="_blank">joe.dimercurio@centralaz.com</a>, <a data-tooltip-position="top" aria-label="mailto:jordan.rowan@centralaz.com" rel="noopener" class="external-link" href="mailto:jordan.rowan@centralaz.com" target="_blank">jordan.rowan@centralaz.com</a>, <a data-tooltip-position="top" aria-label="mailto:allison.mangrum@centralaz.com" rel="noopener" class="external-link" href="mailto:allison.mangrum@centralaz.com" target="_blank">allison.mangrum@centralaz.com</a>,<a data-tooltip-position="top" aria-label="mailto:cassie.kalinski@centralaz.com" rel="noopener" class="external-link" href="mailto:cassie.kalinski@centralaz.com" target="_blank">cassie.kalinski@centralaz.com</a>?cc=<a data-tooltip-position="top" aria-label="mailto:daniel.lies@centralaz.com" rel="noopener" class="external-link" href="mailto:daniel.lies@centralaz.com" target="_blank">daniel.lies@centralaz.com</a>&amp;subject=Sermon%20Series%20for%20Review) to open a draft in your default mail app.<br>joe.dimercurio@centralaz.com,
+jordan.rowan@centralaz.com,
+allison.mangrum@centralaz.com,
+cassie.kalinski@centralaz.com,
+daniel.lies@centralaz.com,
+Copy]]></description><link>sops\sermon-series-graphics-creation.html</link><guid isPermaLink="false">SOPs/Sermon Series Graphics Creation.md</guid><pubDate>Fri, 17 May 2024 00:19:45 GMT</pubDate><enclosure url="sops\assets\images\crossroadsv3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;sops\assets\images\crossroadsv3.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

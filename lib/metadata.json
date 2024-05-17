@@ -1,0 +1,559 @@
+{
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1715905473652,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "SOPs/Sermon Series Graphics Creation.md",
+    "sops/assets/images/crossroadsv3.png",
+    "sops/assets/images/centralgeneric_welcome_full.png",
+    "sops/assets/images/centralgeneric_seeyounextweek_full.png",
+    "sops/assets/images/centralgeneric_newhere_full.png",
+    "sops/assets/images/centralgeneric_prayer_full.png",
+    "sops/assets/images/centralgeneric_commmunion_full.png",
+    "sops/assets/images/centralgeneric_whatshappening_full.png",
+    "sops/assets/images/centralgeneric_waystogive_full.png",
+    "sops/assets/images/centralgeneric_baptism_full.png",
+    "sops/assets/images/centralgeneric_blank_full.png",
+    "sops/assets/images/central_generic_gilbert_ledwall_walkin_out.png",
+    "sops/assets/images/central_generic_gilbert_ledwall_host.png",
+    "sops/assets/images/central_generic_mesa_ledwall_walkin_out.png",
+    "sops/assets/images/central_generic_mesa_ledwall_host.png",
+    "sops/assets/images/central_generic_queencreek_ledwall_walkin_out.png",
+    "sops/assets/images/central_generic_queencreek_ledwall_host.png",
+    "sops/assets/images/central_generic_tempe_ledwall_walkin_out.png",
+    "sops/assets/images/central_generic_tempe_ledwall_host.png",
+    "sops/assets/images/central_generic_glendale_ledwall_walkin_out.png",
+    "sops/assets/images/central_generic_glendale_ledwall_host.png",
+    "sops/assets/images/centralgeneric_newhere_lt.png",
+    "sops/assets/images/centralgeneric_prayer_lt.png",
+    "sops/assets/images/centralgeneric_whatshappening_lt.png",
+    "sops/assets/images/centralgeneric_baptism_lt.png",
+    "sops/assets/images/centralgeneric_waystogive_lt.png",
+    "sops/assets/images/centralgeneric_message_lt.png",
+    "sops/assets/images/centralgeneric_messagereference_lt.png",
+    "sops/assets/images/centralgeneric_id_single_lt.png",
+    "sops/assets/images/centralgeneric_id_dual_lt.png",
+    "sops/assets/images/projectfolder.png",
+    "sops/assets/images/fullscreengraphics.png",
+    "sops/assets/images/lowerthirds.png",
+    "sops/assets/images/exportclick.png",
+    "sops/assets/images/export-window.png",
+    "sops/assets/images/frameiomain.png",
+    "sops/assets/images/frameionewfolder.png",
+    "sops/assets/images/frameiofolders.png",
+    "sops/assets/images/frameioshare1.png",
+    "sops/assets/images/frameioshare2.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "SOPs/Sermon Series Graphics Creation.md": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 14523,
+      "exportedPath": "sops/sermon-series-graphics-creation.html",
+      "dependencies": [
+        "sops/assets/images/crossroadsv3.png",
+        "sops/assets/images/centralgeneric_welcome_full.png",
+        "sops/assets/images/centralgeneric_seeyounextweek_full.png",
+        "sops/assets/images/centralgeneric_newhere_full.png",
+        "sops/assets/images/centralgeneric_prayer_full.png",
+        "sops/assets/images/centralgeneric_commmunion_full.png",
+        "sops/assets/images/centralgeneric_whatshappening_full.png",
+        "sops/assets/images/centralgeneric_waystogive_full.png",
+        "sops/assets/images/centralgeneric_baptism_full.png",
+        "sops/assets/images/centralgeneric_blank_full.png",
+        "sops/assets/images/central_generic_gilbert_ledwall_walkin_out.png",
+        "sops/assets/images/central_generic_gilbert_ledwall_host.png",
+        "sops/assets/images/central_generic_mesa_ledwall_walkin_out.png",
+        "sops/assets/images/central_generic_mesa_ledwall_host.png",
+        "sops/assets/images/central_generic_queencreek_ledwall_walkin_out.png",
+        "sops/assets/images/central_generic_queencreek_ledwall_host.png",
+        "sops/assets/images/central_generic_tempe_ledwall_walkin_out.png",
+        "sops/assets/images/central_generic_tempe_ledwall_host.png",
+        "sops/assets/images/central_generic_glendale_ledwall_walkin_out.png",
+        "sops/assets/images/central_generic_glendale_ledwall_host.png",
+        "sops/assets/images/centralgeneric_newhere_lt.png",
+        "sops/assets/images/centralgeneric_prayer_lt.png",
+        "sops/assets/images/centralgeneric_whatshappening_lt.png",
+        "sops/assets/images/centralgeneric_baptism_lt.png",
+        "sops/assets/images/centralgeneric_waystogive_lt.png",
+        "sops/assets/images/centralgeneric_message_lt.png",
+        "sops/assets/images/centralgeneric_messagereference_lt.png",
+        "sops/assets/images/centralgeneric_id_single_lt.png",
+        "sops/assets/images/centralgeneric_id_dual_lt.png",
+        "sops/assets/images/projectfolder.png",
+        "sops/assets/images/fullscreengraphics.png",
+        "sops/assets/images/lowerthirds.png",
+        "sops/assets/images/fullscreengraphics.png",
+        "sops/assets/images/exportclick.png",
+        "sops/assets/images/export-window.png",
+        "sops/assets/images/frameiomain.png",
+        "sops/assets/images/frameionewfolder.png",
+        "sops/assets/images/frameiofolders.png",
+        "sops/assets/images/frameioshare1.png",
+        "sops/assets/images/frameioshare2.png"
+      ]
+    },
+    "sops/assets/images/crossroadsv3.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 4087062,
+      "exportedPath": "sops/assets/images/crossroadsv3.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_welcome_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 386801,
+      "exportedPath": "sops/assets/images/centralgeneric_welcome_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_seeyounextweek_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 409112,
+      "exportedPath": "sops/assets/images/centralgeneric_seeyounextweek_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_newhere_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 402287,
+      "exportedPath": "sops/assets/images/centralgeneric_newhere_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_prayer_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 414641,
+      "exportedPath": "sops/assets/images/centralgeneric_prayer_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_commmunion_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 443808,
+      "exportedPath": "sops/assets/images/centralgeneric_commmunion_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_whatshappening_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 392636,
+      "exportedPath": "sops/assets/images/centralgeneric_whatshappening_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_waystogive_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 414780,
+      "exportedPath": "sops/assets/images/centralgeneric_waystogive_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_baptism_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 415006,
+      "exportedPath": "sops/assets/images/centralgeneric_baptism_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_blank_full.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 429855,
+      "exportedPath": "sops/assets/images/centralgeneric_blank_full.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_gilbert_ledwall_walkin_out.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 556360,
+      "exportedPath": "sops/assets/images/central_generic_gilbert_ledwall_walkin_out.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_gilbert_ledwall_host.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 569770,
+      "exportedPath": "sops/assets/images/central_generic_gilbert_ledwall_host.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_mesa_ledwall_walkin_out.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 884710,
+      "exportedPath": "sops/assets/images/central_generic_mesa_ledwall_walkin_out.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_mesa_ledwall_host.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 905495,
+      "exportedPath": "sops/assets/images/central_generic_mesa_ledwall_host.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_queencreek_ledwall_walkin_out.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 432872,
+      "exportedPath": "sops/assets/images/central_generic_queencreek_ledwall_walkin_out.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_queencreek_ledwall_host.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 426882,
+      "exportedPath": "sops/assets/images/central_generic_queencreek_ledwall_host.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_tempe_ledwall_walkin_out.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 316193,
+      "exportedPath": "sops/assets/images/central_generic_tempe_ledwall_walkin_out.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_tempe_ledwall_host.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 322931,
+      "exportedPath": "sops/assets/images/central_generic_tempe_ledwall_host.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_glendale_ledwall_walkin_out.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 556360,
+      "exportedPath": "sops/assets/images/central_generic_glendale_ledwall_walkin_out.png",
+      "dependencies": []
+    },
+    "sops/assets/images/central_generic_glendale_ledwall_host.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 569770,
+      "exportedPath": "sops/assets/images/central_generic_glendale_ledwall_host.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_newhere_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 33266,
+      "exportedPath": "sops/assets/images/centralgeneric_newhere_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_prayer_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 34916,
+      "exportedPath": "sops/assets/images/centralgeneric_prayer_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_whatshappening_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 38045,
+      "exportedPath": "sops/assets/images/centralgeneric_whatshappening_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_baptism_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 39292,
+      "exportedPath": "sops/assets/images/centralgeneric_baptism_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_waystogive_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 36802,
+      "exportedPath": "sops/assets/images/centralgeneric_waystogive_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_message_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 32670,
+      "exportedPath": "sops/assets/images/centralgeneric_message_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_messagereference_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 35288,
+      "exportedPath": "sops/assets/images/centralgeneric_messagereference_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_id_single_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 10406,
+      "exportedPath": "sops/assets/images/centralgeneric_id_single_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/centralgeneric_id_dual_lt.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 15241,
+      "exportedPath": "sops/assets/images/centralgeneric_id_dual_lt.png",
+      "dependencies": []
+    },
+    "sops/assets/images/projectfolder.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 183682,
+      "exportedPath": "sops/assets/images/projectfolder.png",
+      "dependencies": []
+    },
+    "sops/assets/images/fullscreengraphics.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 1677080,
+      "exportedPath": "sops/assets/images/fullscreengraphics.png",
+      "dependencies": []
+    },
+    "sops/assets/images/lowerthirds.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 2092767,
+      "exportedPath": "sops/assets/images/lowerthirds.png",
+      "dependencies": []
+    },
+    "sops/assets/images/exportclick.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 492723,
+      "exportedPath": "sops/assets/images/exportclick.png",
+      "dependencies": []
+    },
+    "sops/assets/images/export-window.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 2348700,
+      "exportedPath": "sops/assets/images/export-window.png",
+      "dependencies": []
+    },
+    "sops/assets/images/frameiomain.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 201149,
+      "exportedPath": "sops/assets/images/frameiomain.png",
+      "dependencies": []
+    },
+    "sops/assets/images/frameionewfolder.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 49538,
+      "exportedPath": "sops/assets/images/frameionewfolder.png",
+      "dependencies": []
+    },
+    "sops/assets/images/frameiofolders.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 384792,
+      "exportedPath": "sops/assets/images/frameiofolders.png",
+      "dependencies": []
+    },
+    "sops/assets/images/frameioshare1.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 11722,
+      "exportedPath": "sops/assets/images/frameioshare1.png",
+      "dependencies": []
+    },
+    "sops/assets/images/frameioshare2.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 21502,
+      "exportedPath": "sops/assets/images/frameioshare2.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 1657,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 323,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1715905473652,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
