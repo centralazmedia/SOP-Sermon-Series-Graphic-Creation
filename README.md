@@ -361,6 +361,7 @@ Central Cross.svg
 NO TEXT 
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
+
 **EXAMPLE:**
 ![Central_Generic_Tempe_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4c23c1bb-9e43-44e9-b195-84eae4e03cae)
 
@@ -399,6 +400,7 @@ Central Cross.svg
 NO TEXT 
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
+
 **EXAMPLE:**
 ![Central_Generic_Glendale_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/91be5f6b-4057-4912-bfd5-4818e8e1e676)
 
