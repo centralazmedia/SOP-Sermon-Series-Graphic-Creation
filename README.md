@@ -1,4 +1,4 @@
-# SOP-Sermon-Series-Graphic-Creation
+# Sermon Series Graphic Creation
 
 >**Department:** Media  
 >**Creation Date:** 04-08-2024  
@@ -659,7 +659,7 @@ ___
 ## **Exporting Files**
 
 In Photoshop, with your project open, go to **File / Export / Export As** or `Option + Shift + Command + W`
-<img width="652" alt="exportclick" src="https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/6778b31e-276a-4869-b56f-6d24a85ee23b">
+<img width="652" alt="exportclick" src="https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/6778b31e-276a-4869-b56f-6d24a85ee23b">  
 The Export As interface should open. When exporting **Full Screen** or **Lower Thirds** graphics, make sure the output resolution is `1920x1080` and Format is set to PNG with Transparency checked. Make sure the resolution is applied to all graphics in the lefthand side panel.
 
 When exporting the **LED Wall** graphics, keep the resolution as is.
