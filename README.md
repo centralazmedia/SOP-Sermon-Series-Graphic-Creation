@@ -235,6 +235,7 @@ Central Cross.svg
 NO TEXT 
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
+
 **EXAMPLE:**
 ![Central_Generic_Gilbert_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/d7aac571-2f74-486e-b0b4-08616b311040)
 
@@ -277,6 +278,7 @@ Central Cross.svg
 NO TEXT 
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
+
 **EXAMPLE:**
 ![Central_Generic_Mesa_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/6c334c32-a8dc-4662-9069-a5e7e561e879)
 
@@ -319,6 +321,7 @@ Central Cross.svg
 NO TEXT 
 ```
 [Central Cross.svg](https://drive.google.com/file/d/1WR4eX727BzznfVITIwYOCeGWjUB_ZIiS/view?usp=sharing)  
+
 **EXAMPLE:**
 ![Central_Generic_QueenCreek_LEDWall_WALKIN_OUT](https://github.com/centralazmedia/SOP-Sermon-Series-Graphic-Creation/assets/169938653/4c324f4d-89db-47be-828e-b5984c9379d3)
 
